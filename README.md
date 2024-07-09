@@ -9,7 +9,6 @@ I'm a student currently pursuing Bachelor of Technology in Computer Science , pa
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about JavaScript, Python, and web development.
 - 📫 How to reach me: [Email](aasthayuli2000@gmail.com).
-- ⚡ Fun fact: I once built a robot that can solve a Rubik's cube!
 
 ## Skills and Technologies
 
