@@ -18,7 +18,7 @@ I'm a student currently pursuing Bachelor of Technology in Computer Science , pa
 
 ## Projects
 
-- [Project Minor-Games](https://github.com/janedoe/project-gamma): A game built with HTML, CSS, Javascript.
+- [Project Minor-Games](https://github.com/Aasthayuli/Learning-JavaScript/tree/main/rock%20paper%20scissors): A game built with HTML, CSS, Javascript.
 
 ## Connect with Me
 
