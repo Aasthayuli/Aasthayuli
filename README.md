@@ -13,7 +13,7 @@ I'm a student currently pursuing Bachelor of Technology in Computer Science , pa
 
 ## Skills and Technologies
 
-- **Languages:**  C, C++, Python, JavaScript, Java
+- **Languages:**  C, C++, Python, JavaScript, Java, My SQL
 - **Tools:** Git, VS Code
 - **Other:** Operating System
 
