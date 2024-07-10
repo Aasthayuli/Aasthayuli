@@ -18,6 +18,7 @@ I'm a student currently pursuing Bachelor of Technology in Computer Science , pa
 
 ## Projects
 
+-- [Project Amazon Clone](https://github.com/Aasthayuli/Learning-CSS/tree/main/Amazon%20Clone%20using%20%20HTML%20%26%20CSS): Cloned front page of Amazon
 - [Project Minor-Games](https://github.com/Aasthayuli/Learning-JavaScript/tree/main/rock%20paper%20scissors): A game built with HTML, CSS, Javascript.
 
 ## Connect with Me
