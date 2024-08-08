@@ -1,6 +1,6 @@
 # Hi there, I'm Aasthayuli! 👋
 
-I'm a student currently pursuing Bachelor of Technology in Computer Science , passionate about open-source projects ,web development and Software Development. I love building useful and interesting projects.
+I'm a student currently pursuing Bachelors in Technology & my Specialization is Computer Science , passionate about open-source projects ,web development and Software Development. I love building useful and interesting projects.
 
 ## About Me
 
