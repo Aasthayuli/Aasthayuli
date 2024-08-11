@@ -28,5 +28,5 @@ I'm a student currently pursuing Bachelors in Technology & my Specialization is 
 - [Email](mailto:aasthayuli2000@gmail.com)
 
 ## GitHub Stats
-![Aasthayuli's github stats](https://github-readme-stats.vercel.app/api?username=Aasthayuli)
+![github stats](https://github-readme-stats.vercel.app/api?username=Aasthayuli)
 
