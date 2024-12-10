@@ -4,22 +4,21 @@ I'm a student currently pursuing Bachelors in Technology & my Specialization is 
 
 ## About Me
 
-- 🔭 I’m currently working on an open-source web application.
+- 🔭 I’m currently working on a Java Software application.
 - 🌱 I’m currently learning Java and DSA.
 - 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about JavaScript, Python, and web development.
+- 💬 Ask me about Java and web development.
 - 📫 How to reach me: [Email](aasthayuli2000@gmail.com).
 
 ## Skills and Technologies
 
-- **Languages:**  C, C++, Python, JavaScript, Java, My SQL
+- **Languages:**  C, C++, Python, JavaScript, Java, My SQL, DSA
 - **Tools:** Git, VS Code
-- **Other:** Operating System
+- **Other:** Operating System, TailWind CSS
 
 ## Projects
 
-- [Project e-commerce website clone](https://github.com/Aasthayuli/Learning-CSS/tree/main/Amazon%20Clone%20using%20%20HTML%20%26%20CSS): Cloned front page of Amazon using HTML & CSS
-- [Project Minor-Game](https://github.com/Aasthayuli/Learning-JavaScript/tree/main/rock%20paper%20scissors): A game built with HTML, CSS, Javascript.
+- [Project e-commerce website](https://github.com/Aasthayuli/E-Commerce-Website): A Shopping Website using HTML, CSS and JavaScript
 
 ## Connect with Me
 
