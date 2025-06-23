@@ -7,14 +7,14 @@ I'm a student currently pursuing Bachelors in Technology & my Specialization is 
 - 🔭 I’m currently working on a Java Software application.
 - 🌱 I’m currently learning Java and DSA.
 - 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about Java and web development.
+- 💬 Ask me about Python and web development.
 - 📫 How to reach me: [Email](aasthayuli2000@gmail.com).
 
 ## Skills and Technologies
 
-- **Languages:**  C, C++, Python, JavaScript, Java, My SQL, DSA
+- **Languages:**  C, Python, JavaScript, Java, My SQL, DSA
 - **Tools:** Git, VS Code
-- **Other:** Operating System, TailWind CSS
+- **Other:** Operating System, TailWind CSS, Bootstrap
 
 ## Projects
 
