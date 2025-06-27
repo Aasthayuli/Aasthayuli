@@ -5,9 +5,9 @@ I'm a student currently pursuing Bachelors in Technology & my Specialization is 
 ## About Me
 
 - 🔭 I’m currently working on a Java Software application.
-- 🌱 I’m currently learning Java and DSA.
+- 🌱 I’m currently learning DSA.
 - 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about Python and web development.
+- 💬 Ask me about Core Java and web development.
 - 📫 How to reach me: [Email](aasthayuli2000@gmail.com).
 
 ## Skills and Technologies
