@@ -12,9 +12,9 @@ I'm a student currently pursuing Bachelors in Technology & my Specialization is 
 
 ## Skills and Technologies
 
-- **Languages:**  C, Python, JavaScript, Java, My SQL, DSA
-- **Tools:** Git, VS Code
-- **Other:** Operating System, TailWind CSS, Bootstrap
+- **Languages:**  C, Python, HTML, CSS, JavaScript, Java, My SQL, DSA using Java
+- **Tools:** Git, GitHub, VS Code, PyCharm, Intellij Idea
+- **Other:** Operating System, TailWind CSS, Bootstrap, React JS
 
 ## Projects
 
