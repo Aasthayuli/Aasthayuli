@@ -1,7 +1,6 @@
-# Hi there, I'm Aasthayuli! 👋
+# Hi there, I'm a Versatile Developer. 👋
 
-I'm a student currently pursuing Bachelors in Technology & my Specialization is Computer Science , passionate about open-source projects ,web development and Software Development. I love building useful and interesting projects.
-
+I'm a student currently pursuing Bachelors in Technology & my Specialization is Computer Science. I specialize in frontend development with React.js and have hands-on experience building full-stack applications and CNN Models.
 ## About Me
 
 - 🔭 I’m currently working on a fullstack project.
