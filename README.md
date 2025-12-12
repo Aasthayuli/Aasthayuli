@@ -18,7 +18,7 @@ I'm a student currently pursuing Bachelors in Technology & my Specialization is 
 
 ## Projects
 
-- [Project e-commerce website](https://github.com/Aasthayuli/E-Commerce-Website): A Shopping Website using HTML, CSS and JavaScript
+- [Water Quality Classifier](https://water-quality-classifier-1289.streamlit.app/): Water Quality Classification (clean/muddy/polluted) using Python, ML libraries, Pytorch, OpenCV
 
 ## Connect with Me
 
