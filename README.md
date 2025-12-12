@@ -25,6 +25,3 @@ I'm a student currently pursuing Bachelors in Technology & my Specialization is 
 - [Twitter](https://x.com/aasthayuli9821)
 - [Email](mailto:aasthayuli2000@gmail.com)
 
-## GitHub Stats
-![github stats](https://github-readme-stats.vercel.app/api?username=Aasthayuli)
-
