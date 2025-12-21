@@ -17,7 +17,7 @@ I'm a student currently pursuing Bachelors in Technology & my Specialization is 
 
 ## Projects
 
-- [Water Quality Classifier](https://water-quality-classifier-1289.streamlit.app/): Water Quality Classification (clean/muddy/polluted) using Python, ML libraries, Pytorch, OpenCV
+- [Water Quality Classifier](https://water-quality-classifier-1289.streamlit.app/): Water Quality Classification (clean/muddy/polluted) using Python, ML libraries, Pytorch, ResNet18, OpenCV, Streamlit.
 
 ## Connect with Me
 
