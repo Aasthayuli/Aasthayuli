@@ -1,4 +1,4 @@
-# Hi there, I'm Aastha 👋
+# Hi there, I'm Aasthayuli 👋
 
 Final-year B.Tech student in Computer Science and Engineering with a strong interest in software development and backend systems. I enjoy building practical applications and experimenting with new technologies.
 
@@ -9,7 +9,7 @@ I have experience working with **Python (Flask), React, Java, and MySQL**, and I
 ## About Me
 
 * Currently practicing **Data Structures and Algorithms** to strengthen problem-solving skills.
-* Interested in **backend and full-stack development**.
+* Interested in **Software Development**.
 * Occasionally explore **Machine Learning**, especially CNN-based models.
 * Open to **internships, freelance work, open-source contributions, and collaboration on interesting projects**.
 
@@ -17,17 +17,13 @@ I have experience working with **Python (Flask), React, Java, and MySQL**, and I
 
 ## Skills & Technologies
 
-**Languages**
-Python, Java, JavaScript, SQL
+**Languages**: Python, Java, JavaScript, SQL
 
-**Frameworks / Libraries**
-Flask, React, Tailwind CSS, PyTorch, OpenCV
+**Frameworks / Libraries**: Flask, React, Tailwind CSS, PyTorch, OpenCV
 
-**Tools**
-Git, GitHub, VS Code, PyCharm, Jupyter Notebook
+**Tools**: Git, GitHub, VS Code, PyCharm, Jupyter Notebook
 
-**Core Computer Science**
-DBMS, Operating Systems, Data Structures & Algorithms
+**Core Computer Science**: DBMS, Operating Systems, Data Structures & Algorithms
 
 ---
 
@@ -46,7 +42,7 @@ Full-stack inventory management system for grocery stores.
 
 **Tech Stack:** Flask, React, Tailwind CSS, MySQL
 
-🔗 [Visit Project](https://github.com/Aasthayuli/Grocery_Inventory_Management)
+- 🔗 [Visit Project](https://github.com/Aasthayuli/Grocery_Inventory_Management)
 
 ---
 
@@ -63,7 +59,7 @@ Desktop-based hospital management system developed using Java.
 
 **Tech Stack:** Core Java, Java Swing, MySQL
 
-🔗[Visit Project](https://github.com/Aasthayuli/hospital-management-system)
+- 🔗 [Visit Project](https://github.com/Aasthayuli/water-quality-classifier-enhanced)
 ---
 
 ### Water Quality Classifier
@@ -72,12 +68,14 @@ Water quality classification system that detects **clean, muddy, or polluted wat
 
 **Tech Stack:** Python, PyTorch, ResNet18, OpenCV, Streamlit
 
-🔗 [Visit project](https://water-quality-classifier-1289.streamlit.app/)
+- 🔗 [Visit Project](https://water-quality-classifier-1289.streamlit.app/)
 
 ---
 
 ## Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/aasthayuli-b72662257)
-[Twitter/X](https://x.com/aasthayuli9821)
-Email: [aasthayuli2000@gmail.com](mailto:aasthayuli2000@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/aasthayuli-b72662257)
+
+- [Twitter/X](https://x.com/aasthayuli9821)
+
+- Email: [aasthayuli2000@gmail.com](mailto:aasthayuli2000@gmail.com)
