@@ -1,24 +1,83 @@
-# Hey there! I am using GitHub.👋
-I am a Final year B.Tech Student in Computer Science and Engineering. I can work on frontend with React JS, Have experience with backend using Flask and am little into Deep Learning, especially CNN Models.
+# Hi there, I'm Aastha 👋
+
+Final-year B.Tech student in Computer Science and Engineering with a strong interest in software development and backend systems. I enjoy building practical applications and experimenting with new technologies.
+
+I have experience working with **Python (Flask), React, Java, and MySQL**, and I like developing systems that combine backend logic with clean user interfaces.
+
+---
 
 ## About Me
-- I currently practice DSA and do keep experimenting with my projects.
-- I am open to work, either freelance or open source projects.
-- Explore my GitHub repos and If you find anyone interesting or loved it, please leave a remark by giving a star to it.
-- Say hi to me via: [Email](aasthayuli2000@gmail.com).
 
-## Skills and Technologies
-- **Languages:** Python, React JS, Java, My SQL, DSA 
-- **Tools:** Git, GitHub, VS Code, PyCharm, Jupyter Notebook
-- **Other:** DBMS, Operating System, TailWind CSS, PyTorch, ML Libraries
+* Currently practicing **Data Structures and Algorithms** to strengthen problem-solving skills.
+* Interested in **backend and full-stack development**.
+* Occasionally explore **Machine Learning**, especially CNN-based models.
+* Open to **internships, freelance work, open-source contributions, and collaboration on interesting projects**.
 
-## Take a look at my recent Projects
-- [Water Quality Classifier](https://water-quality-classifier-1289.streamlit.app/): Water Quality Classification (clean/muddy/polluted) using Python, ML libraries, Pytorch, ResNet18, OpenCV, Streamlit.
-- [Grocery Inventory Management System](https://github.com/Aasthayuli/Grocery_Inventory_Management): Fullstack project that manages inventory at grocery. Features: CRUD operation over Products, their categories and Suppliers, Product barcode storage and Download, Expiry Tracking and Low Stock Alerts. Transaction report is also generated.
+---
 
-## Connect with Me
+## Skills & Technologies
 
-- [LinkedIn](www.linkedin.com/in/aasthayuli-b72662257)
-- [Twitter](https://x.com/aasthayuli9821)
-- [Email](mailto:aasthayuli2000@gmail.com)
+**Languages**
+Python, Java, JavaScript, SQL
 
+**Frameworks / Libraries**
+Flask, React, Tailwind CSS, PyTorch, OpenCV
+
+**Tools**
+Git, GitHub, VS Code, PyCharm, Jupyter Notebook
+
+**Core Computer Science**
+DBMS, Operating Systems, Data Structures & Algorithms
+
+---
+
+## Projects
+
+### Grocery Inventory Management System
+
+Full-stack inventory management system for grocery stores.
+
+**Features**
+
+* Product, Category, and Supplier management (CRUD operations)
+* Product barcode storage and download
+* Expiry tracking and low-stock alerts
+* Transaction reporting
+
+**Tech Stack:** Flask, React, Tailwind CSS, MySQL
+
+🔗 [Visit Project](https://github.com/Aasthayuli/Grocery_Inventory_Management)
+
+---
+
+### Hospital Management System
+
+Desktop-based hospital management system developed using Java.
+
+**Features**
+
+* Patient registration and management
+* Doctor and department management
+* Appointment handling
+* Database integration for storing and retrieving hospital records
+
+**Tech Stack:** Core Java, Java Swing, MySQL
+
+🔗[Visit Project](https://github.com/Aasthayuli/hospital-management-system)
+---
+
+### Water Quality Classifier
+
+Water quality classification system that detects **clean, muddy, or polluted water** using deep learning.
+
+**Tech Stack:** Python, PyTorch, ResNet18, OpenCV, Streamlit
+
+🔗 [Visit project](https://water-quality-classifier-1289.streamlit.app/)
+
+---
+
+## Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/aasthayuli-b72662257)
+[Twitter/X](https://x.com/aasthayuli9821)
+Email: [aasthayuli2000@gmail.com](mailto:aasthayuli2000@gmail.com)
