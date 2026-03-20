@@ -1,81 +1,113 @@
-# Hi there, I'm Aasthayuli 👋
+<h1 align="center">Hi 👋, I'm Aasthayuli</h1>
+<h3 align="center">🚀 Software Engineer | 💻 Full Stack Developer | 🤖 ML Enthusiast</h3>
 
-Final-year B.Tech student in Computer Science and Engineering with a strong interest in software development and backend systems. I enjoy building practical applications and experimenting with new technologies.
-
-I have experience working with **Python (Flask), React, Java, and MySQL**, and I like developing systems that combine backend logic with clean user interfaces.
-
----
-
-## About Me
-
-* Currently practicing **Data Structures and Algorithms** to strengthen problem-solving skills.
-* Interested in **Software Development**.
-* Occasionally explore **Machine Learning**, especially CNN-based models.
-* Open to **internships, freelance work, open-source contributions, and collaboration on interesting projects**.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aasthayuli&label=Profile%20views&color=ff69b4&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/aasthayuli?label=Followers&style=social" alt="followers" />
+</p>
 
 ---
 
-## Skills & Technologies
+## 🌸 About Me
 
-**Languages**: Python, Java, JavaScript, SQL
+- 🔭 Currently working on **Full Stack Projects**
+- 🌱 Learning **GCP**
+- 💬 Ask me about **Core Java, Python, React, SQL**
+- ⚡ Fun fact:  
+  ```python
+  while(not_coding):
+      eat()
+      sleep()
+      repeat()
+  ```
 
-**Frameworks / Libraries**: Flask, React, Tailwind CSS, PyTorch, OpenCV
+## 🛠️ Skills & Tech Stack
 
-**Tools**: Git, GitHub, VS Code, PyCharm, Jupyter Notebook
-
-**Core Computer Science**: DBMS, Operating Systems, Data Structures & Algorithms
-
----
-
-## Projects
-
-### Grocery Inventory Management System
-
-Full-stack inventory management system for grocery stores.
-
-**Features**
-
-* Product, Category, and Supplier management (CRUD operations)
-* Product barcode storage and download
-* Expiry tracking and low-stock alerts
-* Transaction reporting
-
-**Tech Stack:** Flask, React, Tailwind CSS, MySQL
-
-- 🔗 [Visit Project](https://github.com/Aasthayuli/Grocery_Inventory_Management)
+### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
+</p>
 
 ---
 
-### Hospital Management System
-
-Desktop-based hospital management system developed using Java.
-
-**Features**
-
-* Patient registration and management
-* Doctor and department management
-* Appointment handling
-* Database integration for storing and retrieving hospital records
-
-**Tech Stack:** Core Java, Java Swing, MySQL
-
-- 🔗 [Visit Project](https://github.com/Aasthayuli/water-quality-classifier-enhanced)
----
-
-### Water Quality Classifier
-
-Water quality classification system that detects **clean, muddy, or polluted water** using deep learning.
-
-**Tech Stack:** Python, PyTorch, ResNet18, OpenCV, Streamlit
-
-- 🔗 [Visit Project](https://water-quality-classifier-1289.streamlit.app/)
+### ⚙️ Backend & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask" />
+  <img src="https://img.shields.io/badge/REST%20API-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JWT%20Auth-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JDBC-blue?style=for-the-badge" />
+</p>
 
 ---
 
-## Connect With Me
+### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/TailwindCSS-cyan?style=for-the-badge&logo=tailwind-css" />
+</p>
 
-- [LinkedIn](https://www.linkedin.com/in/aasthayuli-b72662257)
+---
 
-- [Twitter/X](https://x.com/aasthayuli9821)
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql" />
+</p>
 
-- Email: [aasthayuli2000@gmail.com](mailto:aasthayuli2000@gmail.com)
+---
+
+### 🧠 Core Concepts
+<p>
+  <img src="https://img.shields.io/badge/DSA-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OOP-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DBMS-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OS-grey?style=for-the-badge" />
+</p>
+
+---
+
+### 🔧 Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman" />
+  <img src="https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visual-studio-code" />
+</p>
+
+
+### 📊 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aasthayuli&show_icons=true&theme=radical" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasthayuli&layout=compact&theme=radical" /> </p>
+
+### 🧠 LeetCode Progress
+<p align="center"> <img src="https://leetcard.jacoblin.cool/Aasthayuli?theme=dark&font=Baloo&ext=contest" /> </p>
+
+## 🏆 Achievements
+- 🚀 Engineered a **full-stack Grocery Inventory System** with **25+ REST APIs, JWT authentication, and Cloudinary integration**, handling end-to-end inventory workflows
+- 💻 Solved 160+ DSA problems covering arrays, strings, hashmaps, linked lists, stacks, and queues
+- 💼 Completed a **3-month Python Developer Internship**, gaining hands-on experience in Core Python, Advanced Python, Databases and API design
+- 📊 Built an **AI-powered Water Quality Classifier (ResNet18)** using PyTorch and OpenCV
+- 🎯 Maintained a **CGPA of 8.5** in B.Tech CSE
+
+### 🤝 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/aasthayuli-b72662257/"><img src="https://img.shields.io/badge/LinkedIn-pink?style=for-the-badge"></a> <a href="https://leetcode.com/u/Aasthayuli/"><img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge"></a> <a href="mailto:aasthayuli2025@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge"></a> </p>
+
+### ✨ Quote
+"Consistency beats talent when talent doesn’t work hard."
+
+## 🚀 Featured Projects
+
+### 🛒 Grocery Inventory Management System
+Built a **full-stack inventory management system** using React, Flask, and MySQL with **25+ REST APIs, JWT authentication, and Cloudinary integration**, enabling efficient product tracking, barcode handling, and secure user access.
+
+---
+
+### 🏥 Hospital Management System
+Developed a **Java Swing-based desktop application** with JDBC and MySQL using DAO architecture, featuring **patient management, billing system, and transaction tracking** with real-time calculation of charges, deposits, and refunds.
+
+---
+
+### 🤖 AI Water Quality Classifier
+Implemented an **AI-based image classification system** using ResNet18 (PyTorch, OpenCV, Streamlit) to analyze water samples and predict quality, demonstrating practical application of deep learning in environmental analysis.
