@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aasthayuli</h1>
-<h3 align="center">🚀 Software Engineer | 💻 Full Stack Developer | 🤖 ML Enthusiast</h3>
+<h3 align="center"> 📚Final Year CSE Student | 💻Backend Developer | ✈️ Full Stack Projects </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aasthayuli&label=Profile%20views&color=ff69b4&style=flat" alt="profile views" />
@@ -10,8 +10,8 @@
 
 ## 🌸 About Me
 
-- 🔭 Currently working on **Full Stack Projects**
-- 🌱 Learning **GCP**
+- 🔭 Currently working on **Full Stack Projects** & preparing for SDE roles.
+- 🌱 Learning **Cloud Deployment**
 - 💬 Ask me about **Core Java, Python, React, SQL**
 - ⚡ Fun fact:  
   ```python
@@ -86,9 +86,8 @@
 
 ## 🏆 Achievements
 - 🚀 Engineered a **full-stack Grocery Inventory System** with **25+ REST APIs, JWT authentication, and Cloudinary integration**, handling end-to-end inventory workflows
-- 💻 Solved 160+ DSA problems covering arrays, strings, hashmaps, linked lists, stacks, and queues
-- 💼 Completed a **3-month Python Developer Internship**, gaining hands-on experience in Core Python, Advanced Python, Databases and API design
-- 📊 Built an **AI-powered Water Quality Classifier (ResNet18)** using PyTorch and OpenCV
+- 💻 Solved 260+ DSA problems covering arrays, strings, hashmaps, linked lists, stacks, queues and greedy
+- 💼 Completed a **3-month Python Programming Training** at GRRAS Solutions, gaining hands-on experience in Flask, REST APIs, and MySQL
 - 🎯 Maintained a **CGPA of 8.5** in B.Tech CSE
 
 ### 🤝 Connect With Me
@@ -100,14 +99,15 @@
 ## 🚀 Featured Projects
 
 ### 🛒 Grocery Inventory Management System
-Built a **full-stack inventory management system** using React, Flask, and MySQL with **25+ REST APIs, JWT authentication, and Cloudinary integration**, enabling efficient product tracking, barcode handling, and secure user access.
+Built a **full-stack inventory management system** using React, Flask, and MySQL with **26 REST APIs, JWT authentication, and Cloudinary integration**, enabling efficient product tracking, barcode handling, and secure user access.
 
 ---
 
 ### 🏥 Hospital Management System
-Developed a **Java Swing-based desktop application** with JDBC and MySQL using DAO architecture, featuring **patient management, billing system, and transaction tracking** with real-time calculation of charges, deposits, and refunds.
+Developed a **Java Swing-based desktop application** , Used JDBC with a structured codebase separating database queries from application logic, featuring **patient management, billing system, and transaction tracking** with real-time calculation of charges, deposits, and refunds.
 
 ---
 
-### 🤖 AI Water Quality Classifier
-Implemented an **AI-based image classification system** using ResNet18 (PyTorch, OpenCV, Streamlit) to analyze water samples and predict quality, demonstrating practical application of deep learning in environmental analysis.
+### 🤖Voice Assistant using Groq AI
+Developed a **Web based Voice Assistant integrating Groq’s LLaMA 3.3 70B** with Groq API with a Flask backend and React frontend. Features an end-to-end voice pipeline using Google Speech Recognition for STT and gTTS for TTS, with a modular service-based architecture for speech, LLM, and audio processing.
+
